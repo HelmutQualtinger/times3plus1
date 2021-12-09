@@ -1,3 +1,5 @@
+The Collatz Conjecture
+
 This is a playground for playing with the infamous times 3 plus 1 algorithm. Arguably the simples chaotic algorithm known.
 
 Consider the following operation on an arbitrary positive integer:
