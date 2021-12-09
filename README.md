@@ -6,5 +6,9 @@ If the number is even, divide it by two.
 If the number is odd, triple it and add one.
 In modular arithmetic notation, define the function f as follows:
 
-{\displaystyle f(n)={\begin{cases}{\frac {n}{2}}&{\text{if }}n\equiv 0{\pmod {2}}\\[4px]3n+1&{\text{if }}n\equiv 1{\pmod {2}}.\end{cases}}}{\displaystyle f(n)={\begin{cases}{\frac {n}{2}}&{\text{if }}n\equiv 0{\pmod {2}}\\[4px]3n+1&{\text{if }}n\equiv 1{\pmod {2}}.\end{cases}}}
-Now form a sequence by performing this operation repeatedly, beginning with any positive integer, and taking the result at each step as the input at the next.
+It is hitherto unkwon whether number exist for which this series diverges. Empirically all number ab to 2*62 seem to end up in a loop 
+1->4->1 no longer circles have been observed
+
+Philosophically this algorithm offers serious insight. Even ridiculosly simple, well defined processes may have totally unpredictable outcomes. Unpredictabilty does not necesseraly  ensue a lack of information and does not require complexity
+
+https://en.wikipedia.org/wiki/Collatz_conjecture
